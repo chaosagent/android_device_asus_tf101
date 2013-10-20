@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo full_tf101-userdebug
+add_lunch_combo omni_tf101-userdebug

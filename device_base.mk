@@ -223,8 +223,7 @@ PRODUCT_PACKAGES := \
     whisperd \
     libaudioutils \
     libinvensense_mpl \
-    blobpack_tf \
-    AutoParts
+    blobpack_tf
 
 PRODUCT_CHARACTERISTICS := tablet
 
